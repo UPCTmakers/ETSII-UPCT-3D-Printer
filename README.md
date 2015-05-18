@@ -1,2 +1,4 @@
-# ETSII-UPCT-3D-Printer
-http://creativecommons.org/licenses/by-sa/4.0/
+# ETSII-UPCT 3D Printer
+En este repositorio encontramos toda la documentación necesaria para construir la impresora 3D modelo ETSII-UPCT.
+
+
