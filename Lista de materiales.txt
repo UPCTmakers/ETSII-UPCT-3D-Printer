@@ -1,0 +1,41 @@
+Varillas lisas y roscadas:
+• Varillas roscadas:
+- M8: INOX 50cm
+• Varillas lisas:
+- (2x 8mm 50cm) para eje x
+- (2x 8mm 50cm) para eje y
+- (2x 8mm 50cm) para eje z
+
+Juego de rodamientos:
+• 12 rodamientos lineales modelo LM8uu
+• 3 rodamientos axiales 608zz.
+• 2 rodamientos axiales 623zz
+
+Juego de poleas y correas modelo GT2:
+• 2 Poleas GT2
+• 2m de correa GT2
+
+Z-coupler 1x5-8metálico
+
+LCD para impresión autónoma
+• 1x Panel LCD completamente soldado, conector de tarjeta SD,
+• 1x escudo para el panel de conexión fácil a RAMPS 1.3/1.4.
+• 2 x Cable plano de 10 pines.
+
+Electrónica:
+• RAMPS v1.4, totalmente ensamblada
+• 4 controladores Steppers drivers DVR8825
+• Arduino Mega 2560
+• Cable USB 2.0 de 0,5m
+• Juego de cableado completo
+• 3 Finales de carrera mecánicos (endstop)
+• Juego de 4 motores paso a paso NEMA 17 (1.8deg/step, 40N/cm).
+• Fuente de alimentación industrial conmutada 350W 12V 29A o fuente de ordenadador con una salida de 12v 30A.
+• Cable para fuente de alimentación
+• Ventilador 50x50x12mm para refrigerar la electrónica
+• Cama caliente modelo MK2B, con termistor 100k.
+• Cable de 1.5mm de sección y 1m de longitud para conectar la cama caliente
+Extras:
+• Espejo plano 20x20 cm
+• 4 muelles de compresión
+• 4 Pinzas de fijación
