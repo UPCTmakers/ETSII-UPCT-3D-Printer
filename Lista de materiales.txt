@@ -1,41 +1,41 @@
-Varillas lisas y roscadas:
-ï Varillas roscadas:
+##Varillas lisas y roscadas:
+‚Ä¢ Varillas roscadas:
 - M8: INOX 50cm
-ï Varillas lisas:
+‚Ä¢ Varillas lisas:
 - (2x 8mm 50cm) para eje x
 - (2x 8mm 50cm) para eje y
 - (2x 8mm 50cm) para eje z
 
-Juego de rodamientos:
-ï 12 rodamientos lineales modelo LM8uu
-ï 3 rodamientos axiales 608zz.
-ï 2 rodamientos axiales 623zz
+##Juego de rodamientos:
+‚Ä¢ 12 rodamientos lineales modelo LM8uu
+‚Ä¢ 3 rodamientos axiales 608zz.
+‚Ä¢ 2 rodamientos axiales 623zz
 
 Juego de poleas y correas modelo GT2:
-ï 2 Poleas GT2
-ï 2m de correa GT2
+‚Ä¢ 2 Poleas GT2
+‚Ä¢ 2m de correa GT2
 
-Z-coupler 1x5-8met·lico
+Z-coupler 1x5-8met√°lico
 
-LCD para impresiÛn autÛnoma
-ï 1x Panel LCD completamente soldado, conector de tarjeta SD,
-ï 1x escudo para el panel de conexiÛn f·cil a RAMPS 1.3/1.4.
-ï 2 x Cable plano de 10 pines.
+LCD para impresi√≥n aut√≥noma
+‚Ä¢ 1x Panel LCD completamente soldado, conector de tarjeta SD,
+‚Ä¢ 1x escudo para el panel de conexi√≥n f√°cil a RAMPS 1.3/1.4.
+‚Ä¢ 2 x Cable plano de 10 pines.
 
-ElectrÛnica:
-ï RAMPS v1.4, totalmente ensamblada
-ï 4 controladores Steppers drivers DVR8825
-ï Arduino Mega 2560
-ï Cable USB 2.0 de 0,5m
-ï Juego de cableado completo
-ï 3 Finales de carrera mec·nicos (endstop)
-ï Juego de 4 motores paso a paso NEMA 17 (1.8deg/step, 40N/cm).
-ï Fuente de alimentaciÛn industrial conmutada 350W 12V 29A o fuente de ordenadador con una salida de 12v 30A.
-ï Cable para fuente de alimentaciÛn
-ï Ventilador 50x50x12mm para refrigerar la electrÛnica
-ï Cama caliente modelo MK2B, con termistor 100k.
-ï Cable de 1.5mm de secciÛn y 1m de longitud para conectar la cama caliente
+Electr√≥nica:
+‚Ä¢ RAMPS v1.4, totalmente ensamblada
+‚Ä¢ 4 controladores Steppers drivers DVR8825
+‚Ä¢ Arduino Mega 2560
+‚Ä¢ Cable USB 2.0 de 0,5m
+‚Ä¢ Juego de cableado completo
+‚Ä¢ 3 Finales de carrera mec√°nicos (endstop)
+‚Ä¢ Juego de 4 motores paso a paso NEMA 17 (1.8deg/step, 40N/cm).
+‚Ä¢ Fuente de alimentaci√≥n industrial conmutada 350W 12V 29A o fuente de ordenadador con una salida de 12v 30A.
+‚Ä¢ Cable para fuente de alimentaci√≥n
+‚Ä¢ Ventilador 50x50x12mm para refrigerar la electr√≥nica
+‚Ä¢ Cama caliente modelo MK2B, con termistor 100k.
+‚Ä¢ Cable de 1.5mm de secci√≥n y 1m de longitud para conectar la cama caliente
 Extras:
-ï Espejo plano 20x20 cm
-ï 4 muelles de compresiÛn
-ï 4 Pinzas de fijaciÛn
+‚Ä¢ Espejo plano 20x20 cm
+‚Ä¢ 4 muelles de compresi√≥n
+‚Ä¢ 4 Pinzas de fijaci√≥n
