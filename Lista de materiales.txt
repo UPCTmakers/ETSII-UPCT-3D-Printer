@@ -1,4 +1,6 @@
-##Varillas lisas y roscadas:
+Relación de materiales que hemos usado para construir la impresora ETSII-UPCT:
+
+Varillas lisas y roscadas:
 • Varillas roscadas:
 - M8: INOX 50cm
 • Varillas lisas:
@@ -6,7 +8,7 @@
 - (2x 8mm 50cm) para eje y
 - (2x 8mm 50cm) para eje z
 
-##Juego de rodamientos:
+Juego de rodamientos:
 • 12 rodamientos lineales modelo LM8uu
 • 3 rodamientos axiales 608zz.
 • 2 rodamientos axiales 623zz
